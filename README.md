@@ -1,2 +1,1 @@
 # gauss_iteration_with_openMP
-# gauss_iteration_with_openMP
